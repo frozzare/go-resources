@@ -3,6 +3,7 @@
 
 # Configuration
 * Store and retrieve encrypted configs from etcd or consul - https://github.com/xordataexchange/crypt
+* TOML parser for Golang with reflection - https://github.com/BurntSushi/toml
 
 # Testing
 * Asserts to Go testing https://github.com/bmizerany/assert
